@@ -1,0 +1,29 @@
+{
+  "assets": [],
+  "build": {
+    "build_id": "BFFD2B2D-2",
+    "build_number": 2,
+    "build_time": 1707820210328,
+    "release": false
+  },
+  "encryptLevel": 0,
+  "useFeatures": [],
+  "icon": "res/logo.png",
+  "launchConfig": {
+    "displaySplash": true,
+    "hideLogs": false,
+    "splashIcon": "res/splashIcon.png",
+    "splashText": "Powered by Auto.js Pro",
+    "stableMode": true
+  },
+  "main": "main.js",
+  "name": "米窗建议2",
+  "optimization": {
+    "removeOpenCv": false,
+    "unusedResources": false
+  },
+  "packageName": "com.ggguyu.michuang",
+  "scripts": {},
+  "versionCode": 1,
+  "versionName": "2.0.0"
+}
